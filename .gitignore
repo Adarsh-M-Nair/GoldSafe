@@ -1,13 +1,6 @@
-# Dataset 
-dataset/
+# Uploads and generated files
 uploads/
 item_embeddings.npy
-
-# Image files
-*.webp
-*.jpg
-*.jpeg
-*.png
 
 # Python cache
 __pycache__/
